@@ -11,4 +11,4 @@ GitHub UI final project
    
 **Output**:
 
-   **simple interest** = p'*'t'*'r
+   **simple interest** = p&ast;t&ast;r
